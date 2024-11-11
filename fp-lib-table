@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CAD_import_files")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files")(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CHERRY_MX1A-11NN_SWITCH")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/CHERRY_MX1A-11NN_SWITCH.kicad_sym")(options "")(descr ""))
+  (lib (name "ROHM_Semicon_SML-D12U1WT86")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/ROHM_Semicon_SML-D12U1WT86.kicad_sym")(options "")(descr ""))
+  (lib (name "te_connectivity_2345986-1")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/te_connectivity_2345986-1.kicad_sym")(options "")(descr ""))
+  (lib (name "Winbond_Elec_W25Q128JVSIQ")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/Winbond_Elec_W25Q128JVSIQ.kicad_sym")(options "")(descr ""))
+  (lib (name "Abracon_LLC_ABM8-272-T3")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/Abracon_LLC_ABM8-272-T3.kicad_sym")(options "")(descr ""))
+  (lib (name "onsemi_NCP1117DT33RKG")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/onsemi_NCP1117DT33RKG.kicad_sym")(options "")(descr ""))
+  (lib (name "Infineon_ESD108B1CSP0201XTSA1")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/Infineon_ESD108B1CSP0201XTSA1.kicad_sym")(options "")(descr ""))
+  (lib (name "liteon_LTST-C191KRKT")(type "KiCad")(uri "C:/Personal/Mechatronics_Local/02-projects/02-SwiftK_MacroKeyboard/CAD_import_files/liteon_LTST-C191KRKT.kicad_sym")(options "")(descr ""))
+)
